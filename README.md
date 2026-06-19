@@ -1,47 +1,47 @@
-<h1 align="center">Hi 👋, I'm <a href="https://intvergil.github.io/DEMO-gh-api-blog" target="blank">intVergil</a></h1>
-<h3 align="center">A passionate Fullstark developer from Chinese &#x1f1e8;&#x1f1f3;</h3>
+# YIBIN YAN
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-- 🌱 I’m currently Working on Fullstark App(React + Nestjs)
-
-- 🤝 I'm looking for a remote job with a strong technical atmosphere
-
-- 🌱 I’m currently learning [System Design](https://github.com/intVergil/system-design-primer)
-
-- 💬 Ask me about **React & Javascript**
-
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/intvergil" target="blank">linkedin</a>
-<br/>
-
-<!--
-### Blogs posts
-
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+**Frontend Engineer** — based in Japan, 8 years building production web applications.
 
 ---
--->
 
-<br/>
-<h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 
-</h3>
+## About
 
-<p align="center">
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/intvergil/">
-      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/intVergil">
-      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-    </a>
-  </div>
-</p>
+I specialize in React / TypeScript front-end architecture and own delivery from UI design to CI/CD pipeline.  
+Background in industrial design (M.Eng, Tokyo Metropolitan University) informs how I think about product and UX.
 
-Credit: [intVergil](https://github.com/intVergil)
+**Currently open to new opportunities** — Frontend / DX Engineer roles in Japan.
 
-Last Edited on: 04/03/2025
+---
+
+## Selected Work
+
+**Logistics Customs Platform** (2022–2026) — 0→1 product for a customs brokerage  
+4-module system covering invoice screening, billing, KPI management, and customs API integration.  
+Per-operator daily throughput: **500+ → 5,000+** (announced at company all-hands).  
+Tech: React · TypeScript · Vite · Hono BFF · OpenAPI type-gen · GitHub Actions · Terraform · AWS
+
+**EdTech SaaS Platform** (2018–2022) — 0→1, then led frontend as tech lead  
+Integrated CRM, curriculum management, online classroom (WebRTC), and exam system.  
+Served 500–1,000 students/year. Led frontend team of 3 (2 engineers + 1 UI designer).  
+Tech: React · TypeScript · WebRTC · Rails · Backlog
+
+---
+
+## Tech
+
+| | |
+|---|---|
+| **Frontend** | React · Vue · TypeScript · Vite |
+| **BFF / API** | Hono · OpenAPI · NestJS |
+| **Infra / DX** | GitHub Actions · Terraform · AWS (Lambda, S3) |
+| **Other** | WebRTC · IndexedDB · MongoDB · PostgreSQL |
+
+---
+
+## Languages
+
+Japanese N1 &nbsp;·&nbsp; Chinese native &nbsp;·&nbsp; English working
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/intvergil)
